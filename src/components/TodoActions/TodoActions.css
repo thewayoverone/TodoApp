@@ -1,0 +1,13 @@
+.MuiTab-root {
+    min-width: 20px !important;
+}
+
+.actions-wrapper {
+    border-radius: 5px;
+    height: 48px;
+    background-color: #031956;
+    margin-bottom: 20px;
+    max-width: 168px;
+    width: 100%;
+
+}
