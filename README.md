@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# TODO LIST APP
 
 Todo List App, Kurski Ivan
 
